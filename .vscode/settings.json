@@ -1,0 +1,11 @@
+{
+    "python.defaultInterpreterPath": ".\\venv\\Scripts\\python.exe",
+    
+    "code-runner.executorMap": {
+        "python": ".\\venv\\Scripts\\python.exe"
+    },
+    
+    "code-runner.ignoreSelection": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.clearPreviousOutput": true
+}
