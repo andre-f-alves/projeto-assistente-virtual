@@ -1,7 +1,7 @@
 import microfone as mic
 import pyautogui as pg
 
-""" 
+"""
     * No momento, a utilização do assistente está limitada a inicialização de alguns programas
     por meio da ferramenta Executar do sistema operacional Windows.
 """
@@ -17,7 +17,7 @@ programas = {
     'chrome': 'chrome'
 }
 
-""" 
+"""
     Ativa o microfone para a captura do áudio e divide o texto retornado,
     transformando-o em uma lista (list()).
 """
